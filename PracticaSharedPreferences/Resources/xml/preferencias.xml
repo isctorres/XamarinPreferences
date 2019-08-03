@@ -1,0 +1,15 @@
+﻿<android.support.v7.preference.PreferenceScreen 
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <android.support.v7.preference.EditTextPreference
+    android:defaultValue="#fff111"
+    android:dialogTitle="Background color"
+    android:key="BackGroundColor"
+    android:summary="Tu background color."
+    android:title="Background color"/>
+  <android.support.v7.preference.EditTextPreference
+    android:defaultValue="desconocido"
+    android:dialogTitle="Nombre de usuario"
+    android:key="KeyNombreUsuario"
+    android:summary="Tu nombre de usuario"
+    android:title="Nombre de usuario"/>
+</android.support.v7.preference.PreferenceScreen>
